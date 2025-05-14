@@ -56,7 +56,7 @@ game-of-life/
 ## 📬 Contact
 
 Tu peux me retrouver ici :  
-🔗 https://github.com/Corblack
+🔗 [https://johannpmbf.fr](https://johannpmbf.fr)
 
 ---
 
